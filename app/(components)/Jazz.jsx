@@ -5,7 +5,7 @@ const Jazz = () => {
     <div className="max-w-sm mx-auto mt-4 shadow-lg rounded-lg">
       <div className="flex h-28">
         <div className="w-3/5  text-center justify-center flex-col flex">
-          <h3>KongKunta</h3>
+          <h3 className="font-bold">KongKunta</h3>
           <p>Siuuu...</p>
         </div>
         <div className="flex flex-col justify-center w-2/5 ">
