@@ -14,6 +14,7 @@ module.exports = {
       },
     },
     colors: {
+      nav: "#94A7AE",
       main: "#5D12D2",
       second: "#B931FC",
       third: "#FF6AC2",

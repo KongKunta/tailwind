@@ -4,7 +4,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="flex p-3 bg-third justify-between">
+    <nav className="flex p-3 bg-nav justify-between">
       <div className="flex">
         <button className="">
           <FontAwesomeIcon icon={faBars} />
