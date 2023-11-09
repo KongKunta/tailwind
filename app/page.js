@@ -4,6 +4,7 @@ import Button from "./(components)/Button";
 import Card from "./(components)/Card";
 import Jazz from "./(components)/Jazz";
 import Grid from "./(components)/Grid";
+import Form from "./(components)/Form";
 
 const page = () => {
   return (
@@ -13,6 +14,7 @@ const page = () => {
       <Card />
       <Jazz />
       <Grid />
+      <Form />
     </div>
   );
 };
