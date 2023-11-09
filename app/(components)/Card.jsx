@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
   return (
-    <div class="max-w-sm mx-auto shadow-lg rounded-lg">
+    <div className="max-w-sm mx-auto shadow-lg rounded-lg">
       <div className="flex h-32 justify-evenly">
         <div className="flex flex-col justify-center text-center">
           <p>KongKunta</p>

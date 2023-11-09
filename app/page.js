@@ -3,6 +3,7 @@ import Header from "./(components)/Header";
 import Button from "./(components)/Button";
 import Card from "./(components)/Card";
 import Jazz from "./(components)/Jazz";
+import Grid from "./(components)/Grid";
 
 const page = () => {
   return (
@@ -11,6 +12,7 @@ const page = () => {
       <Button />
       <Card />
       <Jazz />
+      <Grid />
     </div>
   );
 };
