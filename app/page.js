@@ -5,6 +5,7 @@ import Card from "./(components)/Card";
 import Jazz from "./(components)/Jazz";
 import Grid from "./(components)/Grid";
 import Form from "./(components)/Form";
+import Home from "./(components)/Home";
 
 const page = () => {
   return (
@@ -15,6 +16,7 @@ const page = () => {
       <Jazz />
       <Grid />
       <Form />
+      <Home />
     </div>
   );
 };
